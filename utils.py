@@ -10,3 +10,4 @@ def find_max(list_of_numbers):
         if number > max:
             max = number
     return max
+
